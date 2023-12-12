@@ -25,8 +25,7 @@ Contacts Manager is a JavaScript-based application that empowers users to manage
 
 ## Usage
 ### Run the Application:
-
-**Open the index.html file in your preferred web browser.
+- Open the index.html file in your preferred web browser.
 
 ## How to Use:
 
