@@ -2,7 +2,7 @@
 
 ## Overview
 
-Contacts Manager is a JavaScript-based application that empowers users to effortlessly manage their contacts. This user-friendly application allows you to add new contacts, view a comprehensive list of all contacts, edit existing contact details, and remove contacts with ease.
+Contacts Manager is a JavaScript-based application that empowers users to manage their contacts effortlessly. This user-friendly application allows you to easily add new contacts, view a comprehensive list of all contacts, edit existing contact details, and remove contacts.
 
 ## Features
 
@@ -22,3 +22,14 @@ Contacts Manager is a JavaScript-based application that empowers users to effort
 
    ```bash
    git clone https://github.com/intelliDean/wed3bridge_cotact/tree/contact
+
+### Usage
+## Run the Application:
+
+Open the index.html file in your preferred web browser.
+
+## How to Use:
+
+** Fill in the contact details (Name, Email, Phone Number) in the provided form.
+** Click "Add Contact" to seamlessly add the contact to your list.
+** View and manage your contacts with the option to edit or delete each contact.
