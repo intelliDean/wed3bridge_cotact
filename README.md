@@ -26,10 +26,10 @@ Contacts Manager is a JavaScript-based application that empowers users to manage
 ### Usage
 ## Run the Application:
 
-Open the index.html file in your preferred web browser.
+**Open the index.html file in your preferred web browser.
 
 ## How to Use:
 
-** Fill in the contact details (Name, Email, Phone Number) in the provided form.
-** Click "Add Contact" to seamlessly add the contact to your list.
-** View and manage your contacts with the option to edit or delete each contact.
+- **Fill in the contact details (Name, Email, Phone Number) in the provided form.
+- **Click "Add Contact" to seamlessly add the contact to your list.
+- **View and manage your contacts with the option to edit or delete each contact.
