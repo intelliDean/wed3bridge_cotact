@@ -21,4 +21,4 @@ Contacts Manager is a JavaScript-based application that empowers users to effort
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/contacts-manager.git
+   git clone https://github.com/intelliDean/wed3bridge_cotact/tree/contact
